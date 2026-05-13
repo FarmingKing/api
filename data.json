@@ -79,8 +79,9 @@
   "super-admins": [
     "kingofnetflix",
     "multifactor",
-    "Twig"
+    "Twig",
     "VR12"
+    
   ],
   "april_fools": {
     "sex": false
