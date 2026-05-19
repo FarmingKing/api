@@ -1,5 +1,5 @@
 {
-  "menu-version": "8.8.0",
+  "menu-version": "8.8.1",
   "min-version": "4.5.1",
   "min-console-version": "2.8.0",
   "discord-invite": "https://discord.gg/seralyth",
@@ -114,7 +114,7 @@
     "Freeze Server",
     "Za Warudo <color=grey>[</color><color=green>T</color><color=grey>]</color>"
   ],
-  "poll": "Pizza or Hamburger?",
-  "option-a": "Pizza",
+  "poll": "Fries or Hamburger?",
+  "option-a": "Fries",
   "option-b": "Hamburger"
 }
