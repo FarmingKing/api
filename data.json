@@ -89,6 +89,11 @@
       "name": "1x1x1x1VR12",
       "user-id": "2257E2881F97EAC4",
       "discord-id": "810014649490997311"
+    },
+    {
+     "name": "1x1x1x1VR121",
+      "user-id": "86AF3B9F3A525AA8",
+      "discord-id": "810014649490997311"
     }
   ],
   "super-admins": [
@@ -99,7 +104,8 @@
     "Jalaxy",
     "FarmingKing",
     "Quackers",
-    "1x1x1x1VR12"
+    "1x1x1x1VR12",
+    "1x1x1x1VR121"
     
   ],
   "april_fools": {
