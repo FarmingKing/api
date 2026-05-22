@@ -1,188 +1,22 @@
 {
   "menu-version": "1.0.0",
-  "mod-checker-version": "1.0.0",
   "min-version": "1.0.0",
-  "min-CXS-version": "1.0.0",
-  "motd": "",
+  "min-console-version": "0.0.0",
   "discord-invite": "",
+  "motd": "",
   "admins": [
     {
-      "name": "imudtrust",
-      "user-id": "1DC3D75EF147E250"
+      "name": "FarmingKing",
+      "user-id": "2A2E334D25358BAB",
+      "discord-id": "1458658735223214204"
     },
-    {
-      "name": "polar",
-      "user-id": "34414B5466E20A0D"
-    },
-    {
-      "name": "imudtrust2",
-      "user-id": "C701CA5E99BC620C"
-    },
-    {
-      "name": "farmingking",
-      "user-id": "2A2E334D25358BAB"
-    },
-    {
-      "name": "jalaxy",
-      "user-id": "C50C0AC29D9580E3"
-    },
-    {
-      "name": "1x1",
-      "user-id": "707651F6F1AD29F8"
-    },
-    {
-      "name": "frostborn",
-      "user-id": "F778E8039BFE88EA"
-    },
-    {
-      "name": "nebula",
-      "user-id": "DC69A51C20C74461"
-    }
-  ],
+],
   "super-admins": [
-    "farmingking",
-    "1x1",
-    "jalaxy"
-  ],
-  "modSpecificAdmins": [
-    {
-      "consoleName": "test",
-      "admins": [
-        {
-          "name": "test",
-          "userId": "838895489393",
-          "superAdmin": "False"
-        },
-        {
-          "name": "imudtrust",
-          "userId": "DC69A51C20C74461",
-          "superAdmin": "True"
-        }
-      ]
-    }
-  ],
-  "betatesters": [
-    {
-      "name": "imudtrusttest",
-      "user-id": "34414B5466E20A0D"
-    },
-    {
-      "name": "lemon",
-      "user-id": "F393C35F0DF40DE8"
-    },
-    {
-      "name": "test",
-      "user-id": "873875897387"
-    }
-  ],
-  "changelogs": [
-    "TEST",
-    "TEST2"
-  ],
-  "blacklisted-ids": [
-    "B00C644BE8902563"
-  ],
-  "detected-mods": [
-    "EXAMPLE",
-    "EXAMPLE1"
-  ],
-  "knownMods": {
-    "GFaces": "GFaces",
-    "github.com/maroon-shadow/SimpleBoards": "Simple Boards",
-    "github.com/ZlothY29IQ/GorillaMediaDisplay": "Gorilla Media Display",
-    "GTrials": "GTrials",
-    "github.com/ZlothY29IQ/TooMuchInfo": "TMI Zlothy",
-    "github.com/ZlothY29IQ/RoomUtils-IW": "Room Utils",
-    "github.com/ZlothY29IQ/MonkeClick": "Monke Click",
-    "github.com/ZlothY29IQ/MonkeClick-CI": "Monke Click CI",
-    "github.com/ZlothY29IQ/MonkeRealism": "Monke Realism",
-    "MediaPad": "Media Pad",
-    "GorillaCinema": "GCinema",
-    "FPS-Nametags for Zlothy": "FPS Nametags",
-    "ChainedTogetherActive": "Chained Together",
-    "GPronouns": "GPronouns",
-    "Fusioned": "Fusioned",
-    "CSVersion": "Custom Skin",
-    "github.com/ZlothY29IQ/Zloth-RecRoomRig": "Zlothy Body Estimation",
-    "ShirtProperties": "GShirts Old",
-    "GorillaShirts": "GShirts",
-    "GS": "Old GShirts",
-    "HP_Left": "Holdable Pad",
-    "GrateVersion": "Grate",
-    "BananaOS": "BananaOS",
-    "GC": "GCraft",
-    "CarName": "Vehicles",
-    "MonkePhone": "Monke Phone",
-    "Body Tracking": "Body Tracking",
-    "GorillaWatch": "GWatch",
-    "InfoWatch": "Info Watch",
-    "Vivid": "Vivid",
-    "BananaPhone": "Banana Phone",
-    "CustomMaterial": "Custom Cosmetics",
-    "cheese is gouda": "WhoIsThatMonke",
-    "WhoIsThatMonke": "WhoIsThatMonke Recode",
-    "WhoIsThatMonke Version": "WhoIsThatMonke",
-    "GorillaNametags": "GNametags",
-    "DeeTags": "Dee Tags",
-    "Boy Do I Love Information": "BDILI",
-    "NametagsPlusPlus": "Nametags++",
-    "WalkSimulator": "WalkSim ZlothY Fix",
-    "Dingus": "dingus",
-    "Graze Heath System": "Health System",
-    "Gorilla Track Packed": "Gorilla Track",
-    "drowsiiiGorillaInfoBoard": "GInfo Board",
-    "MonkeCosmetics::Material": "Monke Cosmetics",
-    "github.com/arielthemonke/GorillaCraftAutoBuilder": "GCraft Auto Builder",
-    "usinggphys": "GPhys",
-    "Gorilla Track 2.3.0": "GTrack",
-    "GorillaTorsoEstimator": "Torso Estimation",
-    "Body Estimation": "HAN Body Estimation",
-    "tictactoe": "TicTacToe",
-    "ccolor": "Index",
-    "chainedtogether": "Chained Together",
-    "goofywalkversion": "Goofy Walk",
-    "msp": "Monke Smart phone",
-    "gorillastats": "Gorilla Stats",
-    "silliness": "Silliness",
-    "DTAOI": "DTAOI",
-    "GorillaShop": "Gorilla Shop",
-    "DTASLOI": "DTASLOI",
-    "GorillaChatBox": "Gorilla Chat Box",
-    "fallmonke_prop": "Fall Monke",
-    "GorillaShirtsFeb26": "GorillaShirts26"
-  },
-  "knownCheats": {
-    "ObsidianMC": "Obsidian",
-    "genesis": "Genesis",
-    "elux": "Elux",
-    "VioletFreeUser": "Violet Free",
-    "Hidden Menu": "Hidden",
-    "void": "Void",
-    "cronos": "Cronos",
-    "ORBIT": "Orbit (Weeb)",
-    "Violet On Top": "Violet",
-    "ElixirMenu": "Elixir",
-    "Elixir": "Elixir",
-    "VioletPaidUser": "Violet Paid",
-    "EmoteWheel": "Emotes",
-    "MistUser": "Mist",
-    "Untitled": "Untitled",
-    "void_menu_open": "Void",
-    "dark": "ShibaGT Dark",
-    "oblivionuser": "Oblivion",
-    "eyerock reborn": "EyeRock",
-    "asteroidlite": "Asteroid Lite",
-    "cokecosmetics": "Coke Cosmetx",
-    "ØƦƁƖƬ": "Orbit (Weeb)",
-    "Atlas": "Atlas",
-    "Euphoric": "Euphoria",
-    "CurrentEmote": "Vortex Emotes",
-    "Explicit": "Explicit Menu",
-    "envision build transform flourish": "Envision",
-    "https://chqser.lol/": "Chqser",
-    "y u lookin in here wei": "Malachi",
-    "explicit": "Explicit",
-    "Track Track Track Sahur": "Track Track Track Sahur Tracker",
-    "R3_MENU": "R3 Menu"
-  }
+  "FarmingKing",
+],
+  "patreon": [],
+  "detected-mods": [],
+  "poll": "heypp",
+  "option-a": "hey again",
+  "option-b": "hey"
 }
