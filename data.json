@@ -5,26 +5,10 @@
   "discord-invite": "",
   "motd": "",
   "admins": [
-    {
-      "name": "FarmingKing",
-      "user-id": "2A2E334D25358BAB",
-      "discord-id": "1458658735223214204"
-    },
-    {
-      "name": "Jalaxy",
-      "user-id": "C50C0AC29D9580E3",
-      "discord-id": "1432590680831688759"
-    },
-    {
-      "name": "1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1",
-      "user-id": "86AF3B9F3A525AA8",
-      "discord-id": "810014649490997311"
-    },
+    
 ],
   "super-admins": [
-  "FarmingKing",
-  "Jalaxy",
-  "1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1x1",
+    
 ],
   "patreon": [],
   "detected-mods": [],
