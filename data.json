@@ -5,10 +5,26 @@
   "discord-invite": "",
   "motd": "",
   "admins": [
-    
+    {
+      "name": "Nebula",
+      "user-id": "DC69A51C20C74461",
+      "discord-id": "1291799197464526890"
+    },
+    {
+      "name": "FarmingKing",
+      "user-id": "2A2E334D25358BAB",
+      "discord-id": "1411776191379280046"
+    },
+    {
+      "name": "Jalaxy",
+      "user-id": "C50C0AC29D9580E3",
+      "discord-id": "1432590680831688759"
+    },
 ],
   "super-admins": [
-    
+    "FarmingKing",
+    "Nebula",
+    "Jalaxy",
 ],
   "patreon": [],
   "detected-mods": [],
